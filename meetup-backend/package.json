@@ -1,0 +1,12 @@
+{
+  "name": "meetup-backend",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "devbywater",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.24.1"
+  }
+}
